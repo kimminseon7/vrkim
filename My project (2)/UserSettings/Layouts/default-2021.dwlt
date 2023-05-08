@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 36
+  controlID: 19
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 200}
   m_MaxSize: {x: 40480, y: 16192}
   vertical: 0
-  controlID: 63
+  controlID: 54
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 64
+  controlID: 41
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -387,9 +387,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 426cffff
-      m_LastClickedID: -37822
-      m_ExpandedIDs: e6a8ffffd6d4ffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 48d4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -494,14 +494,15 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Prifab
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\git0410\vrkim\My project (2)
+  m_LastProjectPath: C:\git0508\vrkim\My project (2)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -536,21 +537,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000367d0000567d0000587d0000707d0000747d0000887d0000ba7d0000547e0000
+    m_ExpandedIDs: ffffffffc87d0000e87d0000ea7d0000ee7d0000f07d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: SwipeSystem
-      m_OriginalName: SwipeSystem
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 32650
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -909,9 +910,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.059788, y: 1.1839181, z: -7.134249}
+    m_Target: {x: 1.2983983, y: -2.25103, z: -12.266697}
     speed: 2
-    m_Value: {x: 16.059788, y: 1.1839181, z: -7.134249}
+    m_Value: {x: 1.2983983, y: -2.25103, z: -12.266697}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -958,20 +959,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.033687666, y: -0.9341373, z: 0.091660574, w: -0.34332678}
+    m_Target: {x: -0.015471052, y: -0.977632, z: 0.19493115, w: -0.077599555}
     speed: 2
-    m_Value: {x: -0.033687294, y: -0.9341269, z: 0.09165956, w: -0.34332296}
+    m_Value: {x: -0.015587246, y: -0.97732705, z: 0.19639508, w: -0.077575356}
   m_Size:
-    m_Target: 11.574889
+    m_Target: 13.147827
     speed: 2
-    m_Value: 11.574889
+    m_Value: 13.767359
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 1.3034997
+    m_SpeedNormalized: 0.64999986
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
